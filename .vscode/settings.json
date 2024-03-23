@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.lsp": "html",
+    "functional": "c"
+  }
+}
